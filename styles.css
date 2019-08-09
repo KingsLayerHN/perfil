@@ -1,0 +1,19 @@
+.perfil{
+    border-radius: 100%;
+    width: 200px;
+    
+}
+.principal{
+    width: 800px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    background-color: rgb(5, 5, 5);
+
+}
+.titles {
+    color: aqua !important;
+}
+p{
+    color: white;
+}
